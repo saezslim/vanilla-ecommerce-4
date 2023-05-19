@@ -294,6 +294,12 @@ img {
 }
 .testimonials__heading{
     color: var(--blanco);
+    font-size: 2.5rem;
+}
+@media (min-width: 768px) { 
+    .testimonials__heading{
+        font-size: 3rem;
+    }
 }
 .testimonials__grid{
     display: grid;
