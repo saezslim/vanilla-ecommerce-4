@@ -294,7 +294,7 @@ img {
 }
 .testimonials__heading{
     color: var(--blanco);
-    font-size: 2.5rem;
+    font-size: 2.8rem;
 }
 @media (min-width: 768px) { 
     .testimonials__heading{
